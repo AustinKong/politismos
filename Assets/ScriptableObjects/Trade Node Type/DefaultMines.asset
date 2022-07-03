@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5b0bd5da5cb94f8d590349413922d, type: 3}
+  m_Name: DefaultMines
+  m_EditorClassIdentifier: 
+  inventoryItems:
+  - tradeGood: {fileID: 11400000, guid: 2b11db154415fc54bb8ceea64241bae8, type: 2}
+    isSell: 1
+  - tradeGood: {fileID: 11400000, guid: 4a1cdf568cfd84e449d62540fb4f8dca, type: 2}
+    isSell: 1
+  - tradeGood: {fileID: 11400000, guid: 56c1666429dbac449a3ac1a31a5d5372, type: 2}
+    isSell: 1
+  sprites:
+  - {fileID: -2121628431070228569, guid: 5f5d9f5665b268b45bc4965684824400, type: 3}
+  - {fileID: -9148884810605210044, guid: 5f5d9f5665b268b45bc4965684824400, type: 3}
+  slots: 3
+  goodTimer:
+  - 35
+  - 45

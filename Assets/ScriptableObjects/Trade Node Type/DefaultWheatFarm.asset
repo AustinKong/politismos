@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5b0bd5da5cb94f8d590349413922d, type: 3}
+  m_Name: DefaultWheatFarm
+  m_EditorClassIdentifier: 
+  inventoryItems:
+  - tradeGood: {fileID: 11400000, guid: 8ca8fce007b2079489fbe1ba93d27434, type: 2}
+    isSell: 1
+  - tradeGood: {fileID: 11400000, guid: 0dc8231ede55af846a36a6bc605e91b4, type: 2}
+    isSell: 1
+  sprites:
+  - {fileID: 8718356442143736055, guid: 2fffb44e41ec944438f671255c08c17f, type: 3}
+  - {fileID: -3893914600201097240, guid: 2fffb44e41ec944438f671255c08c17f, type: 3}
+  - {fileID: -1866664028645631094, guid: 2fffb44e41ec944438f671255c08c17f, type: 3}
+  slots: 3
+  goodTimer:
+  - 30
+  - 35

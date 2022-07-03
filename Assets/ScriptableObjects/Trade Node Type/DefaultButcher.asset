@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5b0bd5da5cb94f8d590349413922d, type: 3}
+  m_Name: DefaultButcher
+  m_EditorClassIdentifier: 
+  inventoryItems:
+  - tradeGood: {fileID: 11400000, guid: 8da38506e7969f64ab222ad895e791c8, type: 2}
+    isSell: 1
+  - tradeGood: {fileID: 11400000, guid: ac4ff23b5dfebc2448ce44c6bdf891bf, type: 2}
+    isSell: 1
+  sprites:
+  - {fileID: -3318583585889705142, guid: 8563ea8bdc608604cb133e691735b01f, type: 3}
+  - {fileID: 6867901980214537083, guid: 8563ea8bdc608604cb133e691735b01f, type: 3}
+  slots: 3
+  goodTimer:
+  - 25
+  - 35

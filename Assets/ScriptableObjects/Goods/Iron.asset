@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec97c5a1452c8aa43b759be2594ee3c8, type: 3}
+  m_Name: Iron
+  m_EditorClassIdentifier: 
+  goodName: Iron
+  goodIcon: {fileID: -6865236797869564013, guid: 9364382cdccb41549a0c95757ae40cdd, type: 3}
+  goodPrice: 25

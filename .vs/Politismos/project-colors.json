@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5185891-6d25-559e-0540-aecac3519a14": {
+      "ProjectGuid": "b5185891-6d25-559e-0540-aecac3519a14",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fd41f0fe-7a19-0c60-cd20-3c7f4c82e9f6": {
+      "ProjectGuid": "fd41f0fe-7a19-0c60-cd20-3c7f4c82e9f6",
+      "DisplayName": "Unity.2D.Tilemap.Extras",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
