@@ -86,7 +86,6 @@ public class TradeNode : MonoBehaviour
         {
             if (!displeased)
             {
-                CameraController.instance.ShakeCamera();
                 SoundManager.instance.error.Play();
                 displeased = true;
                 displeasureIndicator.SetActive(true);
