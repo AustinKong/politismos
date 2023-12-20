@@ -27,7 +27,7 @@ More info:
 * Currently there is no win condition, try to manage your resources as efficiently as possible and earn as much gold as you can
 * Heavily inspired by [Hachinos (tiny cactus studio)'s artstyle](https://twitter.com/hachinos_)
 
-Technical info (Buy/sell prices of each good):
+### Technical info (Buy/sell prices of each good)
 * Bread: 5/7
 * Chicken: 20/26
 * Coal: 15/20
@@ -36,6 +36,7 @@ Technical info (Buy/sell prices of each good):
 * Meat: 15/20
 * Paper: 10/13
 * Potato: 3/4
+
 ### Technology
 * Unity: Game engine to run the simulation
 * C#: Backend logic
